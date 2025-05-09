@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-05-08T15:16:11.047Z</updated>
+  <updated>2025-05-09T09:02:00.911Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,15 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>标题</title>
-    <link href="http://example.com/2025/05/08/hello-world-1/"/>
-    <id>http://example.com/2025/05/08/hello-world-1/</id>
-    <published>2025-05-08T13:24:15.102Z</published>
-    <updated>2025-05-08T15:16:11.047Z</updated>
+    <title>remaths</title>
+    <link href="http://example.com/2025/05/08/remaths/"/>
+    <id>http://example.com/2025/05/08/remaths/</id>
+    <published>2025-05-08T15:45:47.000Z</published>
+    <updated>2025-05-09T09:02:00.911Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="RE的maths-problem"><a href="#RE的maths-problem" class="headerlink" title="RE的maths problem"></a>RE的maths problem</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;RE的maths-problem&quot;&gt;&lt;a href=&quot;#RE的maths-problem&quot; class=&quot;headerlink&quot; title=&quot;RE的maths problem&quot;&gt;&lt;/a&gt;RE的maths problem&lt;/h2&gt;</summary>
+      
     
     
     
     
+    <category term="reserve" scheme="http://example.com/tags/reserve/"/>
+    
+    <category term="crypto" scheme="http://example.com/tags/crypto/"/>
     
   </entry>
   
