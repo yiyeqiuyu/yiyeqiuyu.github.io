@@ -200,9 +200,7 @@
 <h3 id="关于”-“"><a href="#关于”-“" class="headerlink" title="关于” = “"></a>关于” = “</h3><p>0neqiu的Base64编码为MG5lcWl1</p>
 <p>而0neqi的Base64编码为MG5lcWk=</p>
 <p>使得l1变为了k=</p>
-<blockquote id="fn_1">
-<sup>1</sup>. 不足3的整数倍的 缺一个字符补一个，缺两个补两个，不足的部分末尾会被00/0000填充<a href="#reffn_1" title="Jump back to footnote [1] in the text."> &#8617;</a>
-</blockquote>
+<p>[注]: 不足3的整数倍的 缺一个字符补一个，缺两个补两个，不足的部分末尾会被00/0000填充</p>
 <h3 id="Base64-DataURI-格式"><a href="#Base64-DataURI-格式" class="headerlink" title="Base64 DataURI 格式"></a>Base64 DataURI 格式</h3><blockquote>
 <p>有时你会发现web页面传给你的base64字符串前面有类似下面的东东。</p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">data:image/jpeg;base64,    /9j/4AA...</span><br></pre></td></tr></table></figure>
