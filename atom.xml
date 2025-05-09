@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-05-09T09:02:00.911Z</updated>
+  <updated>2025-05-09T09:48:11.179Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,21 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>remaths</title>
-    <link href="http://example.com/2025/05/08/remaths/"/>
-    <id>http://example.com/2025/05/08/remaths/</id>
-    <published>2025-05-08T15:45:47.000Z</published>
-    <updated>2025-05-09T09:02:00.911Z</updated>
+    <title>Base64</title>
+    <link href="http://example.com/2025/05/09/remaths/"/>
+    <id>http://example.com/2025/05/09/remaths/</id>
+    <published>2025-05-08T16:00:00.000Z</published>
+    <updated>2025-05-09T09:48:11.179Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="RE的maths-problem"><a href="#RE的maths-problem" class="headerlink" title="RE的maths problem"></a>RE的maths problem</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="浅析Base64"><a href="#浅析Base64" class="headerlink" title="浅析Base64"></a>浅析Base64</h2><h3 id="一、什么是Base64"><a href="#一、什么是Base64" class="headerlink" title="一、什么是Base64"></a>一、什么是Base64</h3><hr><p><strong>Base64</strong>是一种二进制数据的表示方法，</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;RE的maths-problem&quot;&gt;&lt;a href=&quot;#RE的maths-problem&quot; class=&quot;headerlink&quot; title=&quot;RE的maths problem&quot;&gt;&lt;/a&gt;RE的maths problem&lt;/h2&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;浅析Base64&quot;&gt;&lt;a href=&quot;#浅析Base64&quot; class=&quot;headerlink&quot; title=&quot;浅析Base64&quot;&gt;&lt;/a&gt;浅析Base64&lt;/h2&gt;&lt;h3 id=&quot;一、什么是Base64&quot;&gt;&lt;a href=&quot;#一、什么是Base64&quot; class</summary>
       
     
     
+    
+    <category term="remain to be completed" scheme="http://example.com/categories/remain-to-be-completed/"/>
     
     
     <category term="reserve" scheme="http://example.com/tags/reserve/"/>

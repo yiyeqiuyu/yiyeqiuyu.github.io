@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Base64</title>
+    <url>/2025/05/09/remaths/</url>
+    <content><![CDATA[<h2 id="浅析Base64"><a href="#浅析Base64" class="headerlink" title="浅析Base64"></a>浅析Base64</h2><h3 id="一、什么是Base64"><a href="#一、什么是Base64" class="headerlink" title="一、什么是Base64"></a>一、什么是Base64</h3><hr>
+<p><strong>Base64</strong>是一种二进制数据的表示方法，</p>
+]]></content>
+      <categories>
+        <category>remain to be completed</category>
+      </categories>
+      <tags>
+        <tag>reserve</tag>
+        <tag>crypto</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2025/05/08/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -13,14 +27,5 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>remaths</title>
-    <url>/2025/05/08/remaths/</url>
-    <content><![CDATA[<h2 id="RE的maths-problem"><a href="#RE的maths-problem" class="headerlink" title="RE的maths problem"></a>RE的maths problem</h2>]]></content>
-      <tags>
-        <tag>reserve</tag>
-        <tag>crypto</tag>
-      </tags>
   </entry>
 </search>
